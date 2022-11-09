@@ -23,6 +23,7 @@ I hold a Bachelor of Science Degree in Technical Management. My professional exp
 8. Introduction to Data Analytics - IBM Skills Network
 9. Getting Started with Power BI - LinkedIn
 10. Build Data Analysis Tools using R and DPLYR
+
 ---I am currently enrolled in:
 1. Excel to MySQL: Analytic Techniques for Business - Duke University
 2. SQL for Data Science - University of California, Davis
@@ -32,7 +33,7 @@ I am comfortable using excel for various tasks including pivot tables and VLOOKU
 
 My short and long term goals are:
 1. Become employed in a role where I can continue to use excel and SQL. 
-2. Become a confident professional data analyst while working towrds learning more Python. 
+2. Become a confident professional data analyst while working towards learning more Python. 
 3. Become a Data Scientist.
 
 While I have access to coursera, MOOC's have their own challenges as they are not as structered and ridgid as a paid service. I have been considering either a bootcamp or Masters Degree program though have not enrolled in one as I feel building a portfolio is it's own proof of skill level to potential employers and think this is where my priorities should lie. 
