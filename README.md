@@ -1,6 +1,6 @@
 # hello-world
 Following the Github Docs Quickstart
-### **Christopher M. Ferri**
+# **Christopher M. Ferri**
 ## Career transition to Business and Data Analysis 
  
 > Focusing on core analysis competencies:
