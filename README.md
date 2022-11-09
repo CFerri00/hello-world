@@ -1,9 +1,9 @@
 # hello-world
 Following the Github Docs Quickstart
 ### **Christopher M. Ferri**
-##Career transition to Business and Data Analysis 
-> I don't know what a blockquote is. Testing it here. 
-Focusing on core analysis competencies:
+## Career transition to Business and Data Analysis 
+ 
+> Focusing on core analysis competencies:
 1. Microsoft Excel for Analysis
 2. SQL
 3. Tableau
